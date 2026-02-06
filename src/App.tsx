@@ -8,7 +8,7 @@ function App() {
     <>
       <Header headerText='Props er cool!!'></Header>
       <Button
-        text='Kanp 1'
+        text='Knap 1'
         size='small'
         theme='light'
         action={() => alert('Du kar klikket på den 1. knap')}
