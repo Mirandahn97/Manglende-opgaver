@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-<Header headerText= 'DYNAMISK HEADER!!'></Header>
+<Header headerText= 'Props er cool!!'></Header>
     </>
   )
 }
